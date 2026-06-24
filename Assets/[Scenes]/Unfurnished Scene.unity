@@ -2810,6 +2810,10 @@ PrefabInstance:
       propertyPath: m_ScaleInLightmap
       value: 0.325
       objectReference: {fileID: 0}
+    - target: {fileID: -7038808401935299299, guid: fed106c97227a9243a01e20ea612544f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 83eeeb514f8704ae4adde42aae890ebd, type: 2}
     - target: {fileID: -5556402886780031742, guid: fed106c97227a9243a01e20ea612544f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
