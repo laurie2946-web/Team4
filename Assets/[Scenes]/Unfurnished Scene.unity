@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_text
       value: '"pointer" by Kristoffer Zetterstrand. '
       objectReference: {fileID: 0}
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 1233008568357204229, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Name
       value: prefab_exhibit1
@@ -708,6 +712,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -964,6 +972,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1140,6 +1152,10 @@ PrefabInstance:
       propertyPath: m_text
       value: '"Sunset or Passage" by Kristoffer Zetterstrand. '
       objectReference: {fileID: 0}
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1278,6 +1294,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1420,6 +1440,10 @@ PrefabInstance:
       propertyPath: m_text
       value: ' "skull on fire" by Kristoffer Zetterstrand. '
       objectReference: {fileID: 0}
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1558,6 +1582,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1761,6 +1789,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1903,6 +1935,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 320579477251589398, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b12d8066ffd4f4eb5f920e5bb84c8d, type: 2}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
